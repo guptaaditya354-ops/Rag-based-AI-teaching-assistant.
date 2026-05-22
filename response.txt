@@ -1,0 +1,11 @@
+I'd be happy to help you with your question about the web development course.
+
+You're wondering where strings are taught in this course? 
+
+Strings are actually covered in the "Your First HTML Website" video, which is Video 2. 
+
+In that video, there's a section around the timestamp of 1348.44 seconds where I mention that one of the elements will be written by hand, and you'll enjoy reading it.
+
+Additionally, strings are also discussed in more detail later on in the same video, around the 1366.44 second mark.
+
+So, if you want to learn more about strings, make sure to check out Video 2!
